@@ -19,7 +19,7 @@
 
  <div align="center">
   <a href="https://github.com/jafar-mtn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jafman&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jafar-mtn&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif"/>
     
 </div>
